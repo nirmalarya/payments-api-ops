@@ -1,7 +1,7 @@
-# Payments API - UAPIM
+# Payments API - Nirmal Arya Org
 
 Permits payments of orders if current User has access permissions to it. 
-Developed by Andres.
+Developed by Nirmal Arya.
 
 **URL** : `/api/payments/:pk/`
 
